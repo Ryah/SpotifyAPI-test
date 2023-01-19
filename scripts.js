@@ -3,13 +3,13 @@ const resetBtn = document.getElementById('reset');
 const callBtn = document.getElementById('apiCallBtn');
 // #region Init Spotify Web API
 var spotifyApi = new SpotifyWebApi({
-    clientId: 'a151311291a64c98a8cb2f6d17a30d40',
-    clientSecret: '65fc1f5fbe93496aa73da8f369a58e4c',
+    clientId: 'PutClientIDHere',
+    clientSecret: 'PutClientSecretHere',
     redirectUri: 'http://www.example.com/callback'
 });
 
-var clientId = 'a151311291a64c98a8cb2f6d17a30d40',
-    clientSecret = '65fc1f5fbe93496aa73da8f369a58e4c';
+var clientId = 'PutClientIDHere',
+    clientSecret = 'PutClientSecretHere';
 
 // Create the api object with the credentials
 var spotifyApi = new SpotifyWebApi({
