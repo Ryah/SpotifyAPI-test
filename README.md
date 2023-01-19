@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/14987609/213394237-3bf9d0f5-9525-49bf-
 # Install Instructions
 
 1. Have nodejs installed
-2. Make a new application on Spotify Dev Dashboard https://developer.spotify.com/dashboard/applications
-3. Copy Client ID and Secret to line 11 and 12 in scripts.js
+2. Make a new application on [Spotify Dev Dashboard](https://developer.spotify.com/dashboard/applications)
+3. Copy Client ID and Secret to [lines 11 and 12 in scripts.js](https://github.com/Ryah/SpotifyAPI-test/blob/main/scripts.js#L11)
 2. `npm install`
 3. `npm start`
 
